@@ -8,12 +8,12 @@ between Hateful Tweets and Replies". Authors: Abdullah Albanyan, Eduardo Blanco
 ## Introduction
 In this work, we investigate hate and counter hate speech in Twitter. We work with hateful tweets and replies, and study the relationships between them beyond whether the reply counters the hateful tweet. In particular:
 
-* Q1: Does the reply contain counter hate?
+* Q1: Does the reply contain _counter hate_?
 * If Q1 is _Yes_ (the reply counters the hateful tweet):
-   * Q2: Provides a justification?
-   * Q3: Attacks the author of the original tweet?
+   * Q2: Provides a _justification_?
+   * Q3: _Attacks the author_ of the original tweet?
 * If Q1 is _No_ (the reply agrees with the hateful tweet):
-   * Q4: Adds additional hate?
+   * Q4: Adds _additional hate_?
 
 
 
