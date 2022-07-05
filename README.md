@@ -2,7 +2,9 @@
 
 This repository contains the corpus and code of the AAAI-22 paper "Pinpointing Fine-Grained Relationships
 between Hateful Tweets and Replies". Authors: Abdullah Albanyan and Eduardo Blanco.
-Paper link: https://ojs.aaai.org/index.php/AAAI/article/view/21284.
+<br />
+[[paper link](https://ojs.aaai.org/index.php/AAAI/article/view/21284)]
+[[supplementary materials](/docs/hate-twitter-supplemental.pdf)]
 
 ## Introduction
 In this work, we investigate hate and counter hate speech in Twitter. We work with hateful tweets and replies, and study the relationships between them beyond whether the reply counters the hateful tweet. In particular:
