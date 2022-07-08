@@ -45,17 +45,18 @@ This reply approves of the hateful tweet and uses sarcasm to introduce additiona
 ## Citation
 
 ```
-@article{Albanyan_Blanco_2022, 
-title={Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies}, 
-volume={36}, 
-url={https://ojs.aaai.org/index.php/AAAI/article/view/21284}, 
-DOI={10.1609/aaai.v36i10.21284}, 
-abstractNote={Recent studies in the hate and counter hate domain have provided the grounds for investigating how to detect this pervasive content in social media. These studies mostly work with synthetic replies to hateful content written by annotators on demand rather than replies written by real users. We argue that working with naturally occurring replies to hateful content is key to study the problem. Building on this motivation, we create a corpus of 5,652 hateful tweets and replies. We analyze their fine-grained relationships by indicating whether the reply (a) is hate or counter hate speech, (b) provides a justification, (c) attacks the author of the tweet, and (d) adds additional hate. We also present linguistic insights into the language people use depending on these fine-grained relationships. Experimental results show improvements (a) taking into account the hateful tweet in addition to the reply and (b) pretraining with related tasks.}, 
-number={10}, 
-journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-author={Albanyan, Abdullah and Blanco, Eduardo}, 
-year={2022}, 
-month={Jun.}, 
-pages={10418-10426} 
+@article{Albanyan_Blanco_2022,
+  title = {Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies},
+  volume = {36},
+  url = {https://ojs.aaai.org/index.php/AAAI/article/view/21284},
+  doi = {10.1609/aaai.v36i10.21284},
+  abstractnote = {Recent studies in the hate and counter hate domain have provided the grounds for investigating how to detect this pervasive content in social media. These studies mostly work with synthetic replies to hateful content written by annotators on demand rather than replies written by real users. We argue that working with naturally occurring replies to hateful content is key to study the problem. Building on this motivation, we create a corpus of 5,652 hateful tweets and replies. We analyze their fine-grained relationships by indicating whether the reply (a) is hate or counter hate speech, (b) provides a justification, (c) attacks the author of the tweet, and (d) adds additional hate. We also present linguistic insights into the language people use depending on these fine-grained relationships. Experimental results show improvements (a) taking into account the hateful tweet in addition to the reply and (b) pretraining with related tasks.},
+  number = {10},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  author = {Albanyan, Abdullah and Blanco, Eduardo},
+  year = {2022},
+  month = jun,
+  pages = {10418-10426},
+  month_numeric = {6}
 }
 ```
